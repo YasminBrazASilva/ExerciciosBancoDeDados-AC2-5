@@ -4,9 +4,10 @@ Exercícios para AC2 da matéria de Banco de Dados do 2º semestre de ADS
 ### ETAPA 1:
 
 Para está atividade duplique a base de dados utilizada na ATIVIDADE INDIVIDUAL – TEMA: BASE DE DADOS ANIMAIS<br>
-A criação da tabela pode ser vista em: [Exercicio5_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-5/blob/main/Exercicio5_1.sql)<br>
-![ExercicioTela5_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-1e2/blob/main/ExercicioTela5_1.png)<br>
+* A criação da tabela pode ser vista em: [Exercicio5_1.sql](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-5/blob/main/Exercicio5_1.sql)<br>
 
+![ExercicioTela5_1](https://github.com/YasminBrazASilva/ExerciciosBancoDeDados-AC2-5/blob/main/ExercicioTela5_1.png)<br>
+---
 
 ### ETAPA 2:
 Após a criação de uma nova base, execute os códigos abaixo:
