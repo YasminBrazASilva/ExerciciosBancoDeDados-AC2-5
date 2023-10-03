@@ -1,2 +1,2 @@
--- Apaga a tabela especeis
-DROP TABLE especies
+-- Remove todos os dados da tabela animais
+TRUNCATE TABLE animais

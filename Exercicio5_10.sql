@@ -1,3 +1,3 @@
--- Remove as especies "gato" e "cachorro" da tabela especies
-DELETE FROM especies
-	WHERE nome IN ("Gato", "Cachorro")
+-- Altera o campo "nome" para permitir até 80 caracteres
+ALTER TABLE animais
+	MODIFY nome VARCHAR(80)

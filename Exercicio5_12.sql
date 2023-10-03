@@ -1,2 +1,3 @@
--- Remove todos os dados da tabela animais
-TRUNCATE TABLE animais
+-- Remove o campo "nasc" da tabela de animais
+ALTER TABLE	animais
+	DROP nasc
